@@ -57,5 +57,10 @@ https?://([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/
 ^https?://([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/
 ^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
 (.*)\.g00\.(.*).
+mrilog.mail.ru
+ra8816us.magichue.net
+bossfitness.at
+continuum.dds.microsoft.com
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 
 
